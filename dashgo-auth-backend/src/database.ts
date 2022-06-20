@@ -12,7 +12,7 @@ export function seedUserStore() {
     roles: ['administrator']
   })
 
-  users.set('estagiario@rocketseat.team', {
+  users.set('wellington.willers@gmail.com', {
     password: '123456',
     permissions: ['users.list', 'metrics.list'],
     roles: ['editor']
